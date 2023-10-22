@@ -24,12 +24,12 @@ def NASRAT():
     r = requests.get('https://github.com/Nasrat99799/Aprove/blob/main/Appro.txt').text
     if to in r:
         time.sleep(2)
-        NASRAT2()
+        bsn_menu()
     else:
         os.system('clear')
         print(logo)
         print('')
-        print ('               tApproved Not Detected')
+        print ('               Approved Not Detected')
         print ('')
         print("            \033[1;97mTHIS COMMAND  IS PAID YOU NEED TO GET APPROVED FIRST")
         print ('               \033[1;97mYOUR KEY : ' + to)
