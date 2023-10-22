@@ -24,6 +24,7 @@ def NASRAT():
     r = requests.get('https://github.com/Nasrat99799/Aprove/blob/main/Appro.txt').text
     if to in r:
         time.sleep(2)
+        NASRAT()
     else:
         os.system('clear')
         print(logo)
