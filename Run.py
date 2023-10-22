@@ -60,31 +60,7 @@ def NASRAT2():
     sav.write(id)
     sav.close()
     NASRAT()
-    print(' [1] First JOIN MY CHANNEL')
-    print(' [2] Follow my FB ID')
-    print(' [3] EXIT')
-    opt = input('\n   Choose option >>> ')
-    if opt == '1':
-        os.system('xdg-open https://t.me/JANRALN')
-        FD()
-        return None
-    None('\n\x1b[1;35mEXIT\x1b[1;34m')
-
-
-def FD():
-    os.system('clear')
-    print(logo)
-    print('\x1b[1;34m [1] SUBSCRIBE MY CHANNEL')
-    print(' [2] EXIT')
-    opt = input('\n  \x1b[1;35m Choose option >>> ')
-    if opt == '1':
-        os.system('xdg-open https://www.youtube.com/@nasratYT')
-        o()
-        return None
-    None('\n\x1b[1;31mEXIT\x1b[0;97m')
-print('This Tool is Paid')
-print('Your Key')
-
+    
 def o():
     os.system('clear')
     print(logo)
