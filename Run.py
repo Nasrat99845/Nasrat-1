@@ -61,6 +61,8 @@ def NASRAT2():
     sav.close()
     NASRAT()
     
+    
+    
 def o():
     os.system('clear')
     print(logo)
