@@ -15,7 +15,7 @@ print('Welcome to Mr Nasrat TOOL')
 def NASRAT():
     os.system('clear')
     print(logo)
-    print ('                     Checking Your Key Approval')
+    print ('                     Checking Approval')
     time.sleep(1) 
     try:
         to = open('/sdcard/Android/.NASRAT.txt', 'r').read()
@@ -29,7 +29,7 @@ def NASRAT():
         os.system('clear')
         print(logo)
         print('')
-        print ('               \tYour Key is Not a Approved')
+        print ('               tApproved Not Detected')
         print ('')
         print("            \033[1;97mTHIS COMMAND  IS PAID YOU NEED TO GET APPROVED FIRST")
         print ('               \033[1;97mYOUR KEY : ' + to)
