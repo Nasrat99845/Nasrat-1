@@ -191,9 +191,9 @@ VP   V8P YP   YP `8888Y' 88   YD YP   YP    YP
 \033[1;32m     WONER\33[0;m        :  \033[1;32m\033[1;32mMR.NASRAT  JAGHORIWAL \33[0;m
 \033[1;32m     \033[1;32mFACEBOK      : \033[1;34m LOY RAYESS KABUL
 \033[1;32m     \033[1;35mGITHUB       :  \033[1;35mNasrat99845.git
-\033[1;32m     \033[1;36mTOOL STATUS  :  \033[1;36m Free
+\033[1;32m     \033[1;36mTOOL STATUS  :  \033[1;36m Paid
 \033[1;32m     \033[1;35mTEAM         :  \033[1;35mTECH HACKIN
-\033[1;32m     \033[1;36mTOOL VIRSION :  \033[1;36m 1.9
+\033[1;32m     \033[1;36mTOOL VIRSION :  \033[1;36m 2
 \033[1;32m     Brother      &  ARYAN
 \033[1;33m     For stop use CTRL + Z
 \033[1;34m==============================================\n""")
